@@ -1,5 +1,0 @@
-classes=1
-train = /TrainDarknet/train.txt
-valid = /TrainDarknet/test.txt
-names = /TrainDarknet/obj/obj.names
-backup = /TrainDarknet/backup
